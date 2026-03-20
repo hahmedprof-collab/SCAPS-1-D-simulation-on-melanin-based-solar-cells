@@ -1,0 +1,21 @@
+Parameter_Varied,Value (um),Voc (V),Jsc (mAcm-2),FF (%),PCE (%)
+HTL Thickness,0.100,0.9618,3.558,53.66,1.84
+HTL Thickness,0.150,1.0038,4.780,51.91,2.49
+HTL Thickness,0.200,1.0308,5.7547,50.87,3.02
+HTL Thickness,0.300,1.0626,7.1695,49.74,3.79
+HTL Thickness,0.350,1.0725,7.6849,49.40,4.07
+HTL Thickness,0.400,1.0801,8.1079,49.15,4.30
+HTL Thickness,0.450,1.0860,8.4578,48.96,4.50
+HTL Thickness,0.500,1.0907,8.7492,48.81,4.66
+HTL Thickness,0.550,1.0495,8.9938,48.69,4.79
+ETL Thickness,0.200,1.0957,8.8215,48.73,4.71
+ETL Thickness,0.150,1.0956,8.8703,48.72,4.73
+ETL Thickness,0.100,1.0953,8.9241,48.70,4.76
+ETL Thickness,0.080,1.0951,8.9469,48.70,4.77
+ETL Thickness,0.060,1.0948,8.9703,48.69,4.78
+ETL Thickness,0.040,1.0945,8.9938,48.69,4.79
+ETL Thickness,0.020,1.0941,9.0162,48.69,4.80
+Melanin Thickness,0.070,0.9257,8.3792,41.86,3.25
+Melanin Thickness,0.060,0.9886,8.7458,46.40,4.01
+Melanin Thickness,0.050,1.0941,9.0162,48.69,4.80
+Melanin Thickness,0.040,1.2887,9.2372,47.04,5.60

@@ -1,0 +1,10 @@
+Parameter_Varied,Value,Voc (V),Jsc (mAcm-2),FF (%),PCE (%)
+Carrier Mobility (cm2/Vs),1E-4,1.0941,9.0162,48.69,4.80
+Carrier Mobility (cm2/Vs),1E-5,0.8367,7.0471,29.99,1.77
+Carrier Mobility (cm2/Vs),1E-6,0.5447,1.9282,16.16,0.17
+Carrier Mobility (cm2/Vs),1E-7,0.4595,0.1351497,6.40,0.004
+Interface Defect Density (cm-2),1E10,1.0941,9.0162,48.69,4.80
+Interface Defect Density (cm-2),1E11,1.0919,8.9730,48.60,4.76
+Interface Defect Density (cm-2),1E12,1.0725,8.5627,47.81,4.39
+Interface Defect Density (cm-2),1E13,0.9718,5.8735,43.52,2.48
+Interface Defect Density (cm-2),1E14,0.8098,1.4120,40.61,0.46
